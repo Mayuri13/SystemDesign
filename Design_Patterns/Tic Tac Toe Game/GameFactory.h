@@ -3,7 +3,6 @@
 #include "./utilities/GameType.h"
 #include "./Game.h"
 
-// It is a singleton design pattern, so that only one instance of game is created
 class GameFactory {
 public:
 //If game factory is Standard then create a Stnadard game
